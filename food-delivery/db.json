@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "description": "Classic tomato, mozzarella, basil",
+      "price": 9.99,
+      "image": "/images/pizza_margherita.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "description": "Beef patty, cheddar, lettuce, tomato",
+      "price": 8.49,
+      "image": "/images/cheeseburger.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Biryani",
+      "description": "Fragrant basmati rice with spiced chicken",
+      "price": 11.5,
+      "image": "/images/biryani.jpg"
+    }
+  ]
+}
